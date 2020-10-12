@@ -64,6 +64,7 @@ Para a construção do MVP, utilizamos as seguintes tecnologias:
 - [Firebase][firebase]
 
 
+
 ## 🚀 Como executar o projeto
 
 Para executar o projeto, você pode:
