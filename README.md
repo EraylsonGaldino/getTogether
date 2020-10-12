@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img alt="GetTogether" title="GetTogether" src="./img/logo.jpeg" />
+    <img alt="GetTogether" title="GetTogether" src="https://raw.githubusercontent.com/andrefmsouza/GetTogether/main/img/logo.jpeg" />
 </h1>
 
 <h4 align="center"> 
@@ -61,7 +61,17 @@ O layout da aplicação está disponível no AdobeXD:
 Para a construção do MVP, utilizamos as seguintes tecnologias:
 
 - [VuejJS][vuejs]
-- [Firebase][firebase]
+- [Firebase][firebase]  
+
+Para a construção da API utilizada pelo o MVP, utilizamos as seguintes tecnologias:
+
+- [Flask] [flask]
+- [Python] [python]
+
+Para a construição do MVP em Android, utilizamos as seguintes tecnologias:
+
+- [Android] [android]
+- [Java] [java]
 
 
 
@@ -73,7 +83,7 @@ Para executar o projeto, você pode:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/andrefmsouza/GetTogether
+$ git clone https://github.com/EraylsonGaldino/getTogether/
 
 ```
 
@@ -86,7 +96,7 @@ Feito isso, abra o arquivo index.html no navegador de sua preferência (sugerimo
 ## 🏃 Roadmap
 
 <h1 align="center">
-    <img alt="Roadmap" title="Roadmap" src="./img/roadmap.png" />
+    <img alt="Roadmap" title="Roadmap" src="https://github.com/andrefmsouza/GetTogether/blob/main/img/roadmap.png" />
 </h1>
 
 Feito com ❤️ pela equipe 11 do Hackathon Getnet 
@@ -101,4 +111,9 @@ Tiago Rodrigo <br>
 [firebase]: https://firebase.google.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode  
+
+[python]: https://www.python.org/
+[flask]: https://flask.palletsprojects.com/
+[java]: https://www.java.com/pt-BR/ 
+[Android]: https://www.android.com/
