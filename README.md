@@ -65,13 +65,13 @@ Para a construção do MVP, utilizamos as seguintes tecnologias:
 
 Para a construção da API utilizada pelo o MVP, utilizamos as seguintes tecnologias:
 
-- [Flask] [flask]
-- [Python] [python]
+- [Flask]
+- [Python]
 
 Para a construição do MVP em Android, utilizamos as seguintes tecnologias:
 
-- [Android] [android]
-- [Java] [java]
+- [Android]
+- [Java]
 
 
 
