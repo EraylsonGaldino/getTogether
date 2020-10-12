@@ -63,6 +63,8 @@ Para a construção do MVP, utilizamos as seguintes tecnologias:
 - [VuejJS][vuejs]
 - [Firebase][firebase]  
 
+Código do [projeto]
+
 Para a construção da API utilizada pelo o MVP, utilizamos as seguintes tecnologias:
 
 - [Flask]
@@ -117,3 +119,5 @@ Tiago Rodrigo <br>
 [flask]: https://flask.palletsprojects.com/
 [java]: https://www.java.com/pt-BR/ 
 [Android]: https://www.android.com/
+
+[projeto]: https://github.com/andrefmsouza/GetTogether
