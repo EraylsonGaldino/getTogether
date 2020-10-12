@@ -10,10 +10,10 @@ import utils
 
 def login_api():
 
-    consumer_key = 'NtXvTwTigLmN5heto1m2leNON'
-    consumer_secret = 'aK1pW7BbWPzljGlUIV8M7Ybap9banhXBZ5cigGpkaMwYrufqNi'
-    access_token = '198314809-yu0eym1WTSmKSEFQL6udvWFPbRjQaLtRoH6zGIcL'
-    access_token_secret = 'xb5JCOJ4EIEFOUNqZ5iSXDomqkQZwJ7zefUn4xBTFUYO0'   
+    consumer_key = ''
+    consumer_secret = ''
+    access_token = ''
+    access_token_secret = ''   
 
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
