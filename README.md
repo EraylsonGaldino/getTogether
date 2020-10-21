@@ -104,7 +104,7 @@ Feito isso, abra o arquivo index.html no navegador de sua preferência (sugerimo
 Feito com ❤️ pela equipe 11 do Hackathon Getnet 
 
 André Souza <br>
-Eraylson Galdina <br>
+Eraylson Galdino <br>
 Gabriel Nicolsky <br>
 Igor Maule <br>
 Tiago Rodrigo <br>
